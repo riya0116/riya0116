@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 3rd Year B.Tech CSE Student  
+- 🎓 4th Year B.Tech CSE Student  
 - 💻 Learning **Java + DSA + Full Stack Development**  
 - 🚀 Building real-world projects  
 - 🎯 Goal: Crack a  SDE role  
