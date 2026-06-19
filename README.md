@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riya Sinha</h1>
-<h3 align="center">3rd Year B.Tech CSE Student | Aspiring Software Engineer 🚀</h3>
+<h3 align="center">Final Year B.Tech CSE Student | Aspiring Software Engineer 🚀</h3>
 
 ---
 
